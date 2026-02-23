@@ -46,3 +46,7 @@
 - تسليم سلس من البوت للفني داخل نفس thread.
 - رفع صور متعدد داخل الشات للطرفين.
 - وضع Local Demo جاهز للتشغيل.
+
+
+## Local Preview Troubleshooting
+- لو واجهت 403 أثناء التثبيت راجع: `docs/preview-troubleshooting.md`.
